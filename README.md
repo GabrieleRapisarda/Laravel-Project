@@ -1,3 +1,5 @@
-# HMW-laravel
+# Laravel Project for Univeristy of Catania
 
-### GABRIELE RAPISARDA O46002228 HW2
+## Gabriele Rapisarda O46002228
+
+### The folder contains al the necessary files for a web application using the framework laravel
